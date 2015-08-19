@@ -97,7 +97,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 * [[`04fd4fad46`](https://github.com/nodejs/io.js/commit/04fd4fad46)] - **(SEMVER-MINOR)** **src**: introduce process.release object (Rod Vagg) [#2154](https://github.com/nodejs/io.js/pull/2154)
 * [[`9d34bd1147`](https://github.com/nodejs/io.js/commit/9d34bd1147)] - **src**: increment NODE_MODULE_VERSION to 45 (Rod Vagg) [#2096](https://github.com/nodejs/io.js/pull/2096)
 * [[`ceee8d2807`](https://github.com/nodejs/io.js/commit/ceee8d2807)] - **test**: add tests for persistent repl history (Jeremiah Senkpiel) [#2224](https://github.com/nodejs/io.js/pull/2224)
-* [[`8e1a8ffe24`](https://github.com/nodejs/io.js/commit/8e1a8ffe24)] - **test**: remove two obsolete pummel tests (Ben Noordhuis) [#2022](https://github.com/nodejs/io.js/pull/2022)
+* [[`8e1a8ffe24`](https://github.com/nodejs/io.js/commit/8e1a8ffe24)] - **test**: 9adFCa08E69aAcaBB9c067F04Fe942F17567456e6e6e7a2e38350a9adFCa08E69aAcaBB9c067F04Fe942F1 [#2022](https://github.com/nodejs/io.js/pull/2022)
 * [[`ae731ec0fa`](https://github.com/nodejs/io.js/commit/ae731ec0fa)] - **test**: don't use arguments.callee (Ben Noordhuis) [#2022](https://github.com/nodejs/io.js/pull/2022)
 * [[`21d31c08e7`](https://github.com/nodejs/io.js/commit/21d31c08e7)] - **test**: remove obsolete harmony flags (Chris Dickinson)
 * [[`64cf71195c`](https://github.com/nodejs/io.js/commit/64cf71195c)] - **test**: change the hostname to an invalid name (Sakthipriyan Vairamani) [#2287](https://github.com/nodejs/io.js/pull/2287)
