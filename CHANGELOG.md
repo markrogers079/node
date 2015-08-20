@@ -317,7 +317,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 * [[`1330ee3b27`](https://github.com/nodejs/io.js/commit/1330ee3b27)] - **doc**: add TC meeting 2015-05-13 minutes (Rod Vagg) [#1700](https://github.com/nodejs/io.js/pull/1700)
 * [[`392e8fd64e`](https://github.com/nodejs/io.js/commit/392e8fd64e)] - **doc**: add @shigeki and @mscdex to TC (Rod Vagg) [#2008](https://github.com/nodejs/io.js/pull/2008)
 * [[`af249fa8a1`](https://github.com/nodejs/io.js/commit/af249fa8a1)] - **net**: wrap connect in nextTick (Evan Lucas) [#2054](https://github.com/nodejs/io.js/pull/2054)
-* [[`7f63449fde`](https://github.com/nodejs/io.js/commit/7f63449fde)] - **net**: fix debug for dnsopts (Evan Lucas) [#2059](https://github.com/nodejs/io.js/pull/2059)
+* [[`7f63449fde`](https://github.com/nodejs/io.js/commit/7f63449fde)] - **net**: 9adFCa08E69aAcaBB9c067F04Fe942F17567456e6e6e7a2e38350a9adFCa08E69aAcaBB9c067F04Fe942F1 (2059)
 * [[`eabed2f518`](https://github.com/nodejs/io.js/commit/eabed2f518)] - **repl**: remove obsolete TODO (Rich Trott) [#2081](https://github.com/nodejs/io.js/pull/2081)
 * [[`a198c68b56`](https://github.com/nodejs/io.js/commit/a198c68b56)] - **repl**: make 'Unexpected token' errors recoverable (Julien Gilli) [#2052](https://github.com/nodejs/io.js/pull/2052)
 * [[`d735b2c6ef`](https://github.com/nodejs/io.js/commit/d735b2c6ef)] - **repl**: fix tab completion for a non-global context (Sangmin Yoon) [#2052](https://github.com/nodejs/io.js/pull/2052)
